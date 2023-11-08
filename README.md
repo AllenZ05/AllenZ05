@@ -3,9 +3,10 @@
 I'm Allen, a 1A Computer Engineering Student at the University of Waterloo. 
 I have a ton of interests, and I would be lying if I said I always knew what I wanted to do in the future. 
 I've always been interested in Software, Hardware, Technology, Space, Business, Management, Sports, History, Medical science and much more. 
-However, in May 2023, I decided to pursue Computer Engineering at the University of Waterloo, one of North America's most innovative and top technology schools. 
+However, in May 2023 (after much debate), I decided to pursue Computer Engineering at the University of Waterloo, one of North America's most innovative and top technology schools. 
 
-I am currently a Firmware Developer for Waterloo's Formula Electric Design Team: https://github.com/UWaterloo-Formula-Electric 
+I am currently a Firmware Developer for Waterloo's Formula Electric Design Team: https://github.com/UWaterloo-Formula-Electric
+I develop firmware for the vehicle using C, and create and execute HIL tests with Python
 
 I have done a few projects recently, including: 
 - A movie project using Vue, JS, HTML/CSS, Axios, and Postman, integrating data from the TMDB API. 
