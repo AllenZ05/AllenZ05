@@ -13,7 +13,10 @@ I develop firmware for the vehicle using C, and create and execute HIL tests wit
 I have done a few projects recently, including: 
 - A movie project using Vue, JS, HTML/CSS, Axios, and Postman, integrating data from the TMDB API. 
 - Python games using Pygame and Python 
+- Minesweeper game using C++
 - A Fall Detection Device for the elderly, using a STM32, C/C++, an Accelerometer, and a GSM Module 
+
+And well, of course, most of my time is spent doing school work
 
 ## What's next?
 And I am currently working on a Wildlife and Plant Detector, which will use Python, CVAT, PyTorch, Vite.js, React.js, TypeScript, HTML/CSS, and React Native <br>
@@ -27,4 +30,4 @@ Free feel to reach out to me at:
 - GitHub: https://github.com/AllenZ05
 - Instagram: https://www.instagram.com/allenz05/
 - Discord: az_05
-- Website: In progress... I have too many things to do :(
+- Website: https://allenzhang05.com/
