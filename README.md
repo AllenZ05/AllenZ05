@@ -26,6 +26,7 @@ This is just the beginning...
 
 ## Socials
 Free feel to reach out to me at:
+- Email: allen.zhang.y05@gmail.com, a367zhan@uwaterloo.ca
 - LinkedIn: https://www.linkedin.com/in/allenzhang-05-/
 - GitHub: https://github.com/AllenZ05
 - Instagram: https://www.instagram.com/allenz05/
