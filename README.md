@@ -14,7 +14,7 @@ I have done a few projects recently, including:
 - A movie project using Vue, JS, HTML/CSS, Axios, and Postman, integrating data from the TMDB API. 
 - Python games using Pygame and Python 
 - Minesweeper game using C++
-- A Fall Detection Device for the elderly, using a STM32, C/C++, an Accelerometer, and a GSM Module 
+- A Fall Detection Device for the elderly, using a STM32, C/C++, an MPU6050 accelerometer+gyroscope, and a GSM Module 
 
 And well, of course, most of my time is spent doing school work
 
