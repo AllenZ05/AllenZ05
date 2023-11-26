@@ -20,7 +20,8 @@ And well, of course, most of my time is spent doing school work
 
 ## What's next?
 And I am currently working on a Wildlife and Plant Detector, which will use Python, CVAT, PyTorch, Vite.js, React.js, TypeScript, HTML/CSS, and React Native <br>
-I am also working on getting my own website up and running, which will be a place to showcase my projects, post helpful resources and tips I have/I've gotten, and a place to blog about my interests, the many things I do outside of school, and just my life. 
+
+I am always adding more stuff to my personal website. Check it out with the link below!
 
 This is just the beginning...
 
