@@ -1,7 +1,8 @@
 # Hi there :)
 
-**Seeking Summer 2024 Co-ops/Internships** :computer:
-Interested in software roles, anywhere in Canada or US :canada: :us:	
+**Seeking Summer 2024 Co-ops/Internships** :computer:<br>
+**Interested in software roles, anywhere in Canada or US** :canada: :us:<br>	
+You can message me using the socials I've attached below. Always happy to talk and connect! :smile:
 
 ## About me 
 I'm Allen, a first year Computer Engineering Student at the University of Waterloo. :school:<br>
