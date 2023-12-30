@@ -24,7 +24,7 @@ And well, of course, a lot of my time is spent on school related stuff
 
 ## What's next?
 I am currently working on two projects: :construction_worker:
-- Wildlife and Plant Detector, which will use Python, CVAT, PyTorch, Vite.js, React.js, TypeScript, HTML/CSS, and React Native <br>
+- Wildlife and Plant Detector, using Python, PyTorch, and CVAT <br>
 - Productivity App for Web and iOS, using AWS, Next.js, Swift, TypeScript, Tailwind CSS, and HTML <br>
 
 And I am always adding more stuff to my personal website. Check it out with the link below!
@@ -38,4 +38,4 @@ Free feel to reach out to me at:
 - GitHub: https://github.com/AllenZ05
 - Instagram: https://www.instagram.com/allenz05/
 - Discord: az_05
-- Website: https://allenzhang05.com/
+- Website: **https://allenzhang05.com/**
