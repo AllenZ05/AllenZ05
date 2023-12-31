@@ -25,7 +25,7 @@ And well, of course, a lot of my time is spent on school related stuff
 ## What's next?
 I am currently working on two projects: :construction_worker:
 - Wildlife and Plant Detector, using Python, PyTorch, and CVAT <br>
-- Productivity App for Web and iOS, using AWS, Next.js, Swift, TypeScript, Tailwind CSS, and HTML <br>
+- Productivity App for Web and iOS, using AWS, SQL, Next.js, Swift, TypeScript, Tailwind CSS, and HTML <br>
 
 And I am always adding more stuff to my personal website. Check it out with the link below!
 
