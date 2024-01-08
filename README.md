@@ -2,7 +2,7 @@
 
 **Seeking Summer 2024 Co-ops/Internships** :computer:<br>
 **Interested in software roles, anywhere in Canada or US** :canada: :us:<br>	
-You can message me using the socials I've attached below. Always happy to talk and connect! :smile:
+You can message me using the socials (preferably email) I've attached below. Always happy to talk and connect! :smile:
 
 ## About me 
 I'm Allen, a first year Computer Engineering Student at the University of Waterloo. :school:<br>
@@ -15,8 +15,8 @@ I am currently a Firmware Developer for Waterloo's Formula Electric Design Team:
 I develop and test firmware for the vehicle using C, and create and execute HIL tests with Python
 
 I have done a few projects recently, including: :hammer_and_wrench:	
-- A movie project using Vue, JS, HTML/CSS, Axios, and Postman, integrating data from the TMDB API. Uses Firebase for Backend: User Authentication, Hosting, and Firestore Database
-- Python games using Pygame and Python 
+- A movie project using Vue, JavaScript, HTML/CSS, and Postman, integrating data from the TMDB API. Uses Firebase for Backend: User Authentication, Hosting, and Firestore Database
+- Python games using Python and PyGame 
 - Minesweeper game using C++
 - A Fall Detection Device for the elderly, using a STM32, C/C++, an MPU6050 accelerometer+gyroscope, and a GSM Module 
 
@@ -25,7 +25,7 @@ And well, of course, a lot of my time is spent on school related stuff
 ## What's next?
 I am currently working on two projects: :construction_worker:
 - Wildlife and Plant Detector, using Python, PyTorch<br>
-- Productivity App for Web and iOS, using AWS, SQL, Next.js, Swift, TypeScript, Tailwind CSS, and HTML <br>
+- Productivity App for Web and iOS, using AWS (Amplify, Cognito, Route53, DynamoDB), NoSQL, Next.js, React.js, TypeScript, Tailwind CSS, and Swift <br>
 
 And I am always adding more stuff to my personal website. Check it out with the link below!
 
