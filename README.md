@@ -9,9 +9,7 @@ I'm Allen, a first year Computer Engineering Student at the University of Waterl
 I've always had a ton of interests, and for the longest time, I didn't know what I wanted to do in the future. <br>
 However, in May 2023 (after much debate), I decided to pursue Computer Engineering at the University of Waterloo, one of North America's most innovative and top technology schools. :bulb:<br>
 
-<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/c.svg" alt="C" width="40" height="40"/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 ## Currently... 
 I am currently a Firmware Developer for [Waterloo's Formula Electric Design Team]( https://github.com/UWaterloo-Formula-Electric). <br>
