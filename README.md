@@ -35,9 +35,10 @@ Wow you actually read all of this? Thanks, here have a cookie :cookie:
 ## Socials
 Free feel to reach out to me at:
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:allen.zhang.y05@gmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/allenzhang-05-/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/AllenZ05)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/allenz05/)
+[![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/allenzhang-05-/)
+[![GITHUB](https://skillicons.dev/icons?i=github)](https://github.com/AllenZ05)
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/allenz05/)
+
+Email: **allen.zhang.y05@gmail.com** or **a367zhan@uwaterloo.ca**
 
 Website: **https://allenzhang05.com/**
