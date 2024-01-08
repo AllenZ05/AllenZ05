@@ -6,12 +6,15 @@ You can message me using the socials (preferably email) I've attached below. Alw
 
 ## About me 
 I'm Allen, a first year Computer Engineering Student at the University of Waterloo. :school:<br>
-I have a ton of interests, and for the longest time, I didn't know what I wanted to do in the future. <br>
-I've always been interested in Software, Hardware, Technology, Space, Business, Management, Sports, History, Medical Science and much more. <br>
+I've always had a ton of interests, and for the longest time, I didn't know what I wanted to do in the future. <br>
 However, in May 2023 (after much debate), I decided to pursue Computer Engineering at the University of Waterloo, one of North America's most innovative and top technology schools. :bulb:<br>
 
+<img src="https://simpleicons.org/icons/python.svg" alt="Python" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/cplusplus.svg" alt="C++" width="40" height="40"/>
+<img src="https://simpleicons.org/icons/c.svg" alt="C" width="40" height="40"/>
+
 ## Currently... 
-I am currently a Firmware Developer for Waterloo's Formula Electric Design Team: https://github.com/UWaterloo-Formula-Electric. <br>
+I am currently a Firmware Developer for [Waterloo's Formula Electric Design Team]( https://github.com/UWaterloo-Formula-Electric). <br>
 I develop and test firmware for the vehicle using C, and create and execute HIL tests with Python
 
 I have done a few projects recently, including: :hammer_and_wrench:	
@@ -25,7 +28,7 @@ And well, of course, a lot of my time is spent on school related stuff
 ## What's next?
 I am currently working on two projects: :construction_worker:
 - Wildlife and Plant Detector, using Python, PyTorch<br>
-- Productivity App for Web and iOS, using AWS (Amplify, Cognito, Route53, DynamoDB), NoSQL, Next.js, React.js, TypeScript, Tailwind CSS, and Swift <br>
+- Productivity App for Web and iOS, using AWS (Amplify, Cognito, Route53, WorkMail, DynamoDB), NoSQL, Next.js, React.js, TypeScript, Tailwind CSS, and Swift <br>
 
 And I am always adding more stuff to my personal website. Check it out with the link below!
 
