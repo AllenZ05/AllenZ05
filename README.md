@@ -9,11 +9,11 @@ I'm Allen, a first year Computer Engineering Student at the University of Waterl
 I've always had a ton of interests, and for the longest time, I didn't know what I wanted to do in the future. <br>
 However, in May 2023 (after much debate), I decided to pursue Computer Engineering at the University of Waterloo, one of North America's most innovative and top technology schools. :bulb:<br>
 
-![PYTHON, C++, C, SWIFT](https://skillicons.dev/icons?i=py,cpp,c,swift)
-![TS, JS, HTML, CSS](https://skillicons.dev/icons?i=ts,js,html,css)
-![REACT, NEXT, VUE, VITE](https://skillicons.dev/icons?i=next,react,vue,vite)
-![NODE, PYTORCH, FIREBASE, TAILWIND](https://skillicons.dev/icons?i=nodejs,pytorch,firebase,tailwind)
-![AWS, GIT, GITHUB, VSCODE](https://skillicons.dev/icons?i=aws,git,github,vscode)
+<img src="https://skillicons.dev/icons?i=py,cpp,c,swift" width="20" height="20">
+<img src="https://skillicons.dev/icons?i=ts,js,html,css" width="20" height="20">
+<img src="https://skillicons.dev/icons?i=next,react,vue,vite" width="20" height="20">
+<img src="https://skillicons.dev/icons?i=nodejs,pytorch,firebase,tailwind" width="20" height="20">
+<img src="https://skillicons.dev/icons?i=aws,git,github,vscode" width="20" height="20">
 
 ## Currently... 
 I am currently a Firmware Developer for [Waterloo's Formula Electric Design Team]( https://github.com/UWaterloo-Formula-Electric). <br>
