@@ -1,9 +1,5 @@
 # Hi there :)
 
-**Seeking Summer 2024 Co-ops/Internships** :computer:<br>
-**Interested in software roles, anywhere in Canada or US** :canada: :us:<br>	
-You can message me using the socials (preferably email) I've attached below. Always happy to talk and connect! :smile:
-
 ## About me 
 I'm Allen, a first year Computer Engineering Student at the University of Waterloo. :school:<br>
 I've always had a ton of interests, and for the longest time, I didn't know what I wanted to do in the future. <br>
@@ -17,7 +13,7 @@ I develop and test firmware for the vehicle using C, and create and execute HIL 
 
 I have done a few projects recently, including: :hammer_and_wrench:	
 - A movie project using Vue, JavaScript, HTML/CSS, and Postman, integrating data from the TMDB API. Uses Firebase for Backend: User Authentication, Hosting, and Firestore Database
-- Python games using Python and PyGame 
+- Snake game using Python and PyGame 
 - Minesweeper game using C++
 - A Fall Detection Device for the elderly, using a STM32, C/C++, an MPU6050 accelerometer+gyroscope, and a GSM Module 
 
