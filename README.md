@@ -8,9 +8,9 @@ However, in May 2023 (after much debate), I decided to pursue Computer Engineeri
 ![PYTHON, C++, C, SWIFT, TS, JS, HTML, CSS, NEXT, REACT, VUE, VITE, NODE, PYTORCH, FIREBASE, TAILWIND,AWS, GIT, GITHUB, VSCODE](https://skillicons.dev/icons?i=py,cpp,c,swift,ts,js,html,css,next,react,vue,vite,nodejs,pytorch,firebase,tailwind,aws,git,github,vscode&perline=4)
 
 ## Currently... 
-I am currently a Firmware Developer for [Waterloo's Formula Electric Design Team]( https://github.com/UWaterloo-Formula-Electric). <br>
-I develop and test firmware for the vehicle using C, and create and execute HIL tests with Python
+I am currently a Software Developer for [Dandelion Networks](https://www.dandelionnet.com/). <br>
 
+I was also a Firmware Developer for [Waterloo's Formula Electric Design Team](https://github.com/UWaterloo-Formula-Electric). <br>
 I have done a few projects recently, including: :hammer_and_wrench:	
 - A movie project using Vue, JavaScript, HTML/CSS, and Postman, integrating data from the TMDB API. Uses Firebase for Backend: User Authentication, Hosting, and Firestore Database
 - Snake game using Python and PyGame 
