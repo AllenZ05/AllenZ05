@@ -9,20 +9,21 @@ However, in May 2023 (after much debate), I decided to pursue Computer Engineeri
 
 ## Currently... 
 I am currently a Software Developer for [Dandelion Networks](https://www.dandelionnet.com/). <br>
+Built the ultimate productivity app: [Time-CoPilot](https://www.time-copilot.com/). <br>
 
 I was also a Firmware Developer for [Waterloo's Formula Electric Design Team](https://github.com/UWaterloo-Formula-Electric). <br>
 I have done a few projects recently, including: :hammer_and_wrench:	
 - A movie project using Vue, JavaScript, HTML/CSS, and Postman, integrating data from the TMDB API. Uses Firebase for Backend: User Authentication, Hosting, and Firestore Database
 - Snake game using Python and PyGame 
 - Minesweeper game using C++
-- A Fall Detection Device for the elderly, using a STM32, C/C++, an MPU6050 accelerometer+gyroscope, and a GSM Module 
+- A Fall Detection Device for the elderly, using a STM32, C/C++, an MPU6050 accelerometer+gyroscope, and a GSM Module
+- Productivity App for the Web, using AWS (Amplify, Cognito, Route53, WorkMail, DynamoDB), NoSQL, Next.js, React.js, TypeScript, and Tailwind CSS <br>
 
 And well, of course, a lot of my time is spent on school related stuff
 
 ## What's next?
-I am currently working on two projects: :construction_worker:
-- Wildlife and Plant Detector, using Python, PyTorch<br>
-- Productivity App for Web and iOS, using AWS (Amplify, Cognito, Route53, WorkMail, DynamoDB), NoSQL, Next.js, React.js, TypeScript, Tailwind CSS, and Swift <br>
+I am currently working on: :construction_worker:
+- Mobile App for iOS and Andriod
 
 And I am always adding more stuff to my personal website. Check it out with the link below!
 
