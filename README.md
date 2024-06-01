@@ -5,7 +5,7 @@ I'm Allen, a first year Computer Engineering Student at the University of Waterl
 I've always had a ton of interests, and for the longest time, I didn't know what I wanted to do in the future. <br>
 However, in May 2023 (after much debate), I decided to pursue Computer Engineering at the University of Waterloo, one of North America's most innovative and top technology schools. :bulb:<br>
 
-![PYTHON, C++, C, SWIFT, TS, JS, HTML, CSS, NEXT, REACT, VUE, VITE, NODE, PYTORCH, FIREBASE, TAILWIND,AWS, GIT, GITHUB, VSCODE](https://skillicons.dev/icons?i=py,cpp,c,swift,ts,js,html,css,next,react,vue,vite,nodejs,pytorch,firebase,tailwind,aws,git,github,vscode&perline=4)
+![PYTHON, C, C++, C#, GO, SWIFT, NODE, VITE, TS, JS, HTML, CSS, NEXT, REACT, NUXT, VUE, TAILWIND, FIREBASE, AWS, PYTORCH, GIT, GITHUB, VSCODE, UNITY](https://skillicons.dev/icons?i=py,c,cpp,cs,go,swift,nodejs,vite,ts,js,html,css,next,react,nuxtjs,vue,tailwind,firebase,aws,pytorch,git,github,vscode,unity&perline=4)
 
 ## Currently... 
 I am currently a Software Developer for [Dandelion Networks](https://www.dandelionnet.com/). <br>
