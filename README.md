@@ -2,7 +2,7 @@
 
 ## About me 
 I'm Allen, a second year Computer Engineering Student at the University of Waterloo. :school: <br><br>
-<b>Seeking Winter 2025 Internships</b> <br>
+<b>Seeking Winter 2025 Software Internships</b> <br>
 
 ![PYTHON, C, C++, C#, GO, SWIFT, NODE, VITE, TS, JS, HTML, CSS, NEXT, REACT, NUXT, VUE, TAILWIND, FIREBASE, AWS, PYTORCH, GIT, GITHUB, VSCODE, UNITY](https://skillicons.dev/icons?i=py,c,cpp,cs,go,swift,nodejs,vite,ts,js,html,css,next,react,nuxtjs,vue,tailwind,firebase,aws,pytorch,git,github,vscode,unity&perline=4)
 
