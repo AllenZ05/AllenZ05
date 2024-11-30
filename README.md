@@ -1,9 +1,7 @@
 # Hi there :)
 
 ## About me 
-Hey it's Allen. 
-
-Second year Computer Engineering Student at the University of Waterloo. <br><br>
+Second year Computer Engineering Student at the University of Waterloo. <br>
 
 <b>Seeking Fall 2025 Software Internships</b> <br>
 
@@ -13,8 +11,8 @@ Second year Computer Engineering Student at the University of Waterloo. <br><br>
 In school for Fall 2024... <br>
 
 ## Experiences 
-- Software Developer for [Dandelion Networks](https://www.dandelionnet.com/)<br>
-- Software Developer for [UWaterloo Formula Electric](https://github.com/UWaterloo-Formula-Electric)<br>
+- Software Developer for [Dandelion Networks](https://www.dandelionnet.com/) for Summer 2024 <br>
+- Firmware Developer for [UWaterloo Formula Electric](https://github.com/UWaterloo-Formula-Electric) for Fall 2023 + Winter 2024 <br>
 
 - Built the ultimate productivity app: [Time-CoPilot](https://www.time-copilot.com/) <br>
 
