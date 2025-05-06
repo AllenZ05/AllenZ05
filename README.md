@@ -8,11 +8,12 @@ Second year Computer Engineering Student at the University of Waterloo. <br>
 ![PYTHON, C, C++, C#, GO, SWIFT, NODE, VITE, TS, JS, HTML, CSS, NEXT, REACT, NUXT, VUE, TAILWIND, FIREBASE, AWS, PYTORCH, GIT, GITHUB, VSCODE, UNITY](https://skillicons.dev/icons?i=py,c,cpp,cs,go,swift,nodejs,vite,ts,js,html,css,next,react,nuxtjs,vue,tailwind,firebase,aws,pytorch,git,github,vscode,unity&perline=4)
 
 ## Currently... 
-- Software Developer for [Hanov Solutions](https://www.linkedin.com/company/hanov-solutions-inc./) for Winter 2025 <br>
+- In school for Spring 2025... <br>
 
 ## Experiences 
+- Software Developer for [Hanov Solutions](https://www.linkedin.com/company/hanov-solutions-inc./) for Winter 2025 <br>
 - Software Developer for [Dandelion Networks](https://www.dandelionnet.com/) for Summer 2024 <br>
-- Firmware Developer for [UWaterloo Formula Electric](https://github.com/UWaterloo-Formula-Electric) for Fall 2023 + Winter 2024 <br>
+- Firmware Developer for [UWaterloo Formula Electric](https://github.com/UWaterloo-Formula-Electric) for Fall 2023 - Winter 2024 <br>
 
 - Built the ultimate productivity app: [Time-CoPilot](https://www.time-copilot.com/) <br>
 
