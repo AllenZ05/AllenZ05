@@ -8,7 +8,7 @@ Second year Computer Engineering Student at the University of Waterloo. <br>
 ![PYTHON, C, C++, C#, GO, SWIFT, NODE, VITE, TS, JS, HTML, CSS, NEXT, REACT, NUXT, VUE, TAILWIND, FIREBASE, AWS, PYTORCH, GIT, GITHUB, VSCODE, UNITY](https://skillicons.dev/icons?i=py,c,cpp,cs,go,swift,nodejs,vite,ts,js,html,css,next,react,nuxtjs,vue,tailwind,firebase,aws,pytorch,git,github,vscode,unity&perline=4)
 
 ## Currently... 
-- In school for Spring 2025... <br>
+- In school for Summer 2025... <br>
 
 ## Experiences 
 - Software Developer for [Hanov Solutions](https://www.linkedin.com/company/hanov-solutions-inc./) for Winter 2025 <br>
