@@ -11,6 +11,7 @@ Second year Computer Engineering Student at the University of Waterloo. <br>
 - In school for Summer 2025... <br>
 
 ## Experiences 
+- Incoming Software Developer for [Shopify](https://www.shopify.com/) for Fall 2025 <br>
 - Software Developer for [Hanov Solutions](https://www.linkedin.com/company/hanov-solutions-inc./) for Winter 2025 <br>
 - Software Developer for [Dandelion Networks](https://www.dandelionnet.com/) for Summer 2024 <br>
 - Firmware Developer for [UWaterloo Formula Electric](https://github.com/UWaterloo-Formula-Electric) for Fall 2023 - Winter 2024 <br>
