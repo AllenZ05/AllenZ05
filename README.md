@@ -1,11 +1,11 @@
 # Hi there :)
 
 ## About me 
-Second year Computer Engineering Student at the University of Waterloo. <br>
+Second -> Third year Computer Engineering Student at the University of Waterloo. <br>
 
 <b>Seeking Summer 2026 Software Internships</b> <br>
 
-![PYTHON, C, C++, C#, GO, SWIFT, NODE, VITE, TS, JS, HTML, CSS, NEXT, REACT, NUXT, VUE, TAILWIND, FIREBASE, AWS, PYTORCH, GIT, GITHUB, VSCODE, UNITY](https://skillicons.dev/icons?i=py,c,cpp,cs,go,swift,nodejs,vite,ts,js,html,css,next,react,nuxtjs,vue,tailwind,firebase,aws,pytorch,git,github,vscode,unity&perline=4)
+![SKILLS](https://skillicons.dev/icons?i=py,cpp,cs,c,go,ruby,swift,ts,js,css,html,next,react,nuxtjs,vue,rails,graphql,tailwind,pytorch,git,github,nodejs,vite,figma,unity,aws,gcp,firebase&perline=4)
 
 ## Currently... 
 - Software Engineer Intern at [Shopify](https://www.shopify.com/) <br>
@@ -16,7 +16,7 @@ Second year Computer Engineering Student at the University of Waterloo. <br>
 - Software Developer Intern for [Dandelion Networks](https://www.dandelionnet.com/) for Summer 2024 <br>
 - Software Developer for [UWaterloo Formula Electric](https://github.com/UWaterloo-Formula-Electric) for Fall 2023 - Winter 2024 <br>
 
-- Built the ultimate productivity app: [Time-CoPilot](https://www.time-copilot.com/) <br>
+- Building the ultimate productivity app: [Time-CoPilot](https://www.time-copilot.com/) <br>
 
 ## Socials
 Free feel to reach out to me at:
