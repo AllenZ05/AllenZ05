@@ -3,12 +3,12 @@
 ## About me 
 Second -> Third year Computer Engineering Student at the University of Waterloo. <br>
 
-<b>Seeking Summer 2026 Software Internships</b> <br>
+<b>Incoming Shopify Engineer Intern at [Apple](https://www.apple.com/) for Summer 2026</b> <br>
 
-![SKILLS](https://skillicons.dev/icons?i=py,cpp,cs,c,go,ruby,swift,ts,js,css,html,next,react,nuxtjs,vue,rails,graphql,tailwind,pytorch,git,github,nodejs,vite,figma,unity,aws,gcp,firebase&perline=4)
+![SKILLS](https://skillicons.dev/icons?i=py,cpp,cs,c,go,ruby,swift,ts,js,css,html,next,react,reactnative,nuxtjs,vue,rails,graphql,tailwind,pytorch,git,github,nodejs,vite,grafana,figma,unity,aws,gcp,bigquery,kafka,firebase,cloudflare,stripe&perline=5)
 
 ## Currently... 
-- Software Engineer Intern at [Shopify](https://www.shopify.com/) <br>
+- Going back to school for 3A study term :( <br>
 
 ## Experiences 
 - Software Engineer Intern for [Shopify](https://www.shopify.com/) for Fall 2025 <br>
