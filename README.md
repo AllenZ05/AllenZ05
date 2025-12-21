@@ -5,7 +5,7 @@ Second -> Third year Computer Engineering Student at the University of Waterloo.
 
 <b>Incoming Shopify Engineer Intern at [Apple](https://www.apple.com/) for Summer 2026</b> <br>
 
-![SKILLS](https://skillicons.dev/icons?i=py,cpp,cs,c,go,ruby,swift,ts,js,css,html,next,react,reactnative,nuxtjs,vue,rails,graphql,tailwind,pytorch,git,github,nodejs,vite,grafana,figma,unity,aws,gcp,bigquery,kafka,firebase,cloudflare,stripe&perline=5)
+![SKILLS](https://go-skill-icons.vercel.app/api/icons?i=py,cpp,cs,c,go,ruby,swift,ts,js,css,html,next,react,reactnative,nuxtjs,vue,rails,graphql,tailwind,git,github,nodejs,grafana,figma,aws,gcp,kafka,firebase,cloudflare,stripe&perline=5)
 
 ## Currently... 
 - Going back to school for 3A study term :( <br>
