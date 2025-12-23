@@ -3,7 +3,7 @@
 ## About me 
 Second -> Third year Computer Engineering Student at the University of Waterloo. <br>
 
-<b>Incoming Shopify Engineer Intern at [Apple](https://www.apple.com/) for Summer 2026</b> <br>
+<b>Incoming Software Engineer Intern at [Apple](https://www.apple.com/) for Summer 2026</b> <br>
 
 ![SKILLS](https://go-skill-icons.vercel.app/api/icons?i=py,cpp,cs,c,go,ruby,swift,ts,js,css,html,next,react,reactnative,nuxtjs,vue,rails,graphql,tailwind,git,github,nodejs,grafana,figma,aws,gcp,kafka,firebase,cloudflare,stripe&perline=5)
 
