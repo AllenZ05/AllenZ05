@@ -3,14 +3,13 @@
 ## About me 
 Third year Computer Engineering Student at the University of Waterloo. <br>
 
-<b>Seeking Winter 2027 Software Engineering Internships</b> <br>
-
 ![SKILLS](https://go-skill-icons.vercel.app/api/icons?i=py,cpp,cs,c,go,ruby,swift,ts,js,css,html,next,react,reactnative,nuxtjs,vue,rails,graphql,tailwind,git,github,nodejs,grafana,figma,aws,gcp,kafka,firebase,cloudflare,stripe&perline=5)
 
 ## Currently... 
-- Software Engineer Intern at [Apple](https://www.apple.com/) for Summer 2026 <br>
+- In study term for Fall 2026 <br>
 
 ## Experiences 
+- Software Engineer Intern at [Apple](https://www.apple.com/) for Summer 2026 <br>
 - Software Engineer Intern for [Shopify](https://www.shopify.com/) for Fall 2025 <br>
 - Software Developer Intern for [Hanov Solutions](https://www.linkedin.com/company/hanov-solutions-inc./) for Winter 2025 <br>
 - Software Developer Intern for [Dandelion Networks](https://www.dandelionnet.com/) for Summer 2024 <br>
