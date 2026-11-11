@@ -18,7 +18,7 @@ Incoming Software Engineer Intern at [Rippling](https://www.rippling.com/) for W
 - Software Developer Intern for [Dandelion Networks](https://www.dandelionnet.com/) for Summer 2024 <br> <br> 
 
 - Technical Lead for [UWaterloo Blueprint](https://uwblueprint.org/) <br> 
-- Software Developer for [UWaterloo Watonomous](https://uwatonomous.ca/) and [UWaterloo Formula Electric](https://github.com/UWaterloo-Formula-Electric) <br>
+- Software Developer for [UWaterloo Watonomous](https://www.watonomous.ca/) and [UWaterloo Formula Electric](https://github.com/UWaterloo-Formula-Electric) <br>
 
 ## Socials
 Free feel to reach out to me at:
