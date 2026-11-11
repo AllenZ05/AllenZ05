@@ -10,13 +10,15 @@ Incoming Software Engineer Intern at [Rippling](https://www.rippling.com/) for W
 ## Currently... 
 - In study term for Fall 2026 <br>
 
-## Experiences 
+## Past Experiences 
 
 - Software Engineer Intern at [Apple](https://www.apple.com/) for Summer 2026 <br>
 - Software Engineer Intern for [Shopify](https://www.shopify.com/) for Fall 2025 <br>
 - Software Developer Intern for [Hanov Solutions](https://www.linkedin.com/company/hanov-solutions-inc./) for Winter 2025 <br>
-- Software Developer Intern for [Dandelion Networks](https://www.dandelionnet.com/) for Summer 2024 <br>
-- Software Developer for [UWaterloo Formula Electric](https://github.com/UWaterloo-Formula-Electric) for Fall 2023 - Winter 2024 <br>
+- Software Developer Intern for [Dandelion Networks](https://www.dandelionnet.com/) for Summer 2024 <br> <br> 
+
+- Technical Lead for [UWaterloo Blueprint](https://uwblueprint.org/) <br> 
+- Software Developer for [UWaterloo Watonomous](https://uwatonomous.ca/) and [UWaterloo Formula Electric](https://github.com/UWaterloo-Formula-Electric) <br>
 
 ## Socials
 Free feel to reach out to me at:
