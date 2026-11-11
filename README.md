@@ -18,14 +18,15 @@ Incoming Software Engineer Intern at [Rippling](https://www.rippling.com/) for W
 - Software Developer Intern for [Dandelion Networks](https://www.dandelionnet.com/) for Summer 2024 <br> <br> 
 
 - Technical Lead for [UWaterloo Blueprint](https://uwblueprint.org/) <br> 
-- Software Developer for [UWaterloo Watonomous](https://www.watonomous.ca/) and [UWaterloo Formula Electric](https://github.com/UWaterloo-Formula-Electric) <br>
+- Software Developer for [UWaterloo Watonomous](https://www.watonomous.ca/) and [UWaterloo Formula Electric](https://www.uwfsae.ca/) <br>
 
 ## Socials
 Free feel to reach out to me at:
 
 [![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/allenzhang-05-/)
-[![GITHUB](https://skillicons.dev/icons?i=github)](https://github.com/AllenZ05)
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/allenz05/)
+[![X](https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark)](https://x.com/Allenz_05)
+[![GITHUB](https://skillicons.dev/icons?i=github)](https://github.com/AllenZ05)
 
 Email: **allen.zhang.y05@gmail.com** or **a367zhan@uwaterloo.ca**
 
