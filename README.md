@@ -5,7 +5,11 @@ Third year Computer Engineering Student at the University of Waterloo. <br>
 
 Incoming Software Engineer Intern at [Rippling](https://www.rippling.com/) for Winter 2027 <br>
 
+<!-- Original hosted version (go-skill-icons):
 ![SKILLS](https://go-skill-icons.vercel.app/api/icons?i=py,cpp,cs,c,go,ruby,swift,ts,js,css,html,next,react,reactnative,nuxtjs,vue,rails,graphql,tailwind,git,github,nodejs,grafana,figma,aws,gcp,kafka,firebase,cloudflare,stripe&perline=5)
+-->
+
+![SKILLS](./assets/skills.svg)
 
 ## Currently... 
 - In study term for Fall 2026 <br>
@@ -23,10 +27,17 @@ Incoming Software Engineer Intern at [Rippling](https://www.rippling.com/) for W
 ## Socials
 Free feel to reach out to me at:
 
+<!-- Original hosted versions (skillicons.dev / go-skill-icons):
 [![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/allenzhang-05-/)
 [![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/allenz05/)
 [![X](https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark)](https://x.com/Allenz_05)
 [![GITHUB](https://skillicons.dev/icons?i=github)](https://github.com/AllenZ05)
+-->
+
+[![LINKEDIN](./assets/linkedin.svg)](https://www.linkedin.com/in/allenzhang-05-/)
+[![INSTAGRAM](./assets/instagram.svg)](https://www.instagram.com/allenz05/)
+[![X](./assets/x.svg)](https://x.com/Allenz_05)
+[![GITHUB](./assets/github.svg)](https://github.com/AllenZ05)
 
 Email: **allen.zhang.y05@gmail.com** or **a367zhan@uwaterloo.ca**
 
